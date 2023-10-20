@@ -1,0 +1,16 @@
+.back{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    height: 50px;
+    background-color: #94b3f3;
+}
+
+.linha{
+    font-family: "cursive";
+    text-decoration-line: underline;
+    font-size: 20px;
+
+
+}

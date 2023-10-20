@@ -1,0 +1,24 @@
+.imgs {
+    height: 35px;
+    width: 35px;
+}
+
+.display {
+    background-color: #94b3f3;
+    justify-content: center;
+    display: flex;
+    flex-direction: row;
+}
+
+.imgspcentro{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+}
+
+.texto{
+    font-family: "cursive";
+    font-size: 25px;
+
+}
