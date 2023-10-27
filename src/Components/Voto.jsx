@@ -79,8 +79,8 @@ function Voto(){
                         </div>
 
                         <div>
-                            <h2>Cauê(Ciro Gomes)</h2>
-                            <p>PDT</p>
+                            <h2>Cauê</h2>
+                            <p>Só amor</p>
                             <button className="botao" onClick={clicou1}>Votar</button>
                         </div>
 
@@ -91,8 +91,8 @@ function Voto(){
                         </div>
 
                         <div>
-                            <h2>Gustavo(Bolsonaro)</h2>
-                            <p>PL</p>
+                            <h2>Gustavo</h2>
+                            <p>Só louvor</p>
                             <button className="botao"  onClick={clicou2}>Votar</button>
                         </div>
 
@@ -106,8 +106,8 @@ function Voto(){
                         </div>
 
                         <div>
-                            <h2>Luiz(Lula)</h2>
-                            <p>PT</p>
+                            <h2>Luiz</h2>
+                            <p>Só ardor</p>
                             <button className="botao"  onClick={clicou3}>Votar</button>
                         </div>
 
@@ -118,8 +118,8 @@ function Voto(){
                         </div>
 
                         <div>
-                            <h2>Murilo(Padre Kelmon)</h2>
-                            <p>PTB</p>
+                            <h2>Murilo</h2>
+                            <p>Só clamor</p>
                             <button className="botao"  onClick={clicou4}>Votar</button>
                         </div>
 
